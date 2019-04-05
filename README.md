@@ -1,6 +1,6 @@
 # LiveProject
 ## Introduction
-For the Tech Academy, I participated in a two week long Live Project. 
+For the Tech Academy, I participated in a three week long Live Project. 
 This project was our chance, as students of the Tech Academy, to
 utilize all of the skills and knowledge that we had accumulated during
 the program. The project was a full scale MVC Web Application in C#, 
